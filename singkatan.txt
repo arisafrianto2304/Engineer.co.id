@@ -1,0 +1,23 @@
+
+Teknik informatika 
+- Programmer = pro
+- System analyst = SA
+- Network Administrator = NA 
+- Konsultan ERP = KERP
+- Game Developer = GD
+
+sipil 
+
+-konsultan = kons
+-proyek/pembangunan = proyekPembangunan
+-insinyur konstruksi = IK
+-pemeliharaan bangunan = PB
+-senior kontrol pembangunan = SKP 
+-insinyur sumber daya = ISD
+
+mesin 
+Pengawasan mesin, = PM
+pengoperasian mesin, = PengoperasianMesin 
+Perancangan dan konstruksi mesin, = PKM
+Proses manufaktur, = ProsesManufaktur
+staff teknik mesin / maintenance = STMM
